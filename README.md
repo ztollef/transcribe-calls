@@ -1,1 +1,1 @@
-Based on https://www.twilio.com/blog/live-transcribing-phone-calls-using-twilio-media-streams-and-google-speech-text
+Based on Nathaniel Okenwa's blog post: https://www.twilio.com/blog/live-transcribing-phone-calls-using-twilio-media-streams-and-google-speech-text
